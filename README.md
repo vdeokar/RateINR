@@ -1,5 +1,5 @@
 # RateINR
-
+Install chromedriver and include IN PATH variable the Path to the chromedriver executable
 
 ## Setup Virtual environment
 1. virtualenv .venv
